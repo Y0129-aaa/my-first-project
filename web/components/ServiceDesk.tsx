@@ -85,7 +85,10 @@ export default function ServiceDesk() {
       id: signal.id,
       type: "wechat",
       title: "买家可能即将添加微信",
-      desc: "请准备好原版文件！",
+      // 带上买家咨询的商品/原话，方便老板直接准备对应原版文件
+      desc: signal.text
+        ? `${signal.text}，请准备好原版文件！`
+        : "请准备好原版文件！",
       time: signal.time,
       conversationId: convs[0]?.id, // 演示阶段挂到第一个会话上
     };

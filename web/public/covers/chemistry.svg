@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400" role="img" aria-label="初三化学方程式汇总速记封面">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10b981"/><stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#g)"/>
+  <circle cx="255" cy="55" r="70" fill="#ffffff" opacity="0.08"/>
+  <circle cx="40" cy="330" r="55" fill="#ffffff" opacity="0.08"/>
+  <text x="28" y="135" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="78" font-weight="700" fill="#ffffff" opacity="0.95">化</text>
+  <text x="28" y="172" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#ffffff" opacity="0.9">化学</text>
+  <rect x="28" y="196" width="70" height="4" rx="2" fill="#ffffff" opacity="0.7"/>
+  <text x="28" y="240" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="700" fill="#ffffff">方程式汇总</text>
+  <text x="28" y="272" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="26" font-weight="700" fill="#ffffff">速记卡</text>
+  <rect x="0" y="330" width="300" height="70" fill="#000000" opacity="0.2"/>
+  <text x="28" y="360" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="19" fill="#ffffff">初三 · 中考</text>
+  <text x="28" y="386" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="15" fill="#ffffff" opacity="0.8">核心方程式 · 40页</text>
+</svg>

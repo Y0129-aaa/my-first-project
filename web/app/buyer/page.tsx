@@ -103,7 +103,7 @@ export default function BuyerHome() {
               </Link>
 
               {/* AI 客服 */}
-              <Link href="/buyer/chat" className="block group">
+              <Link href="/shop" className="block group">
                 <div className="friendly-card rounded-2xl p-6 h-full">
                   <div className="flex items-start gap-4">
                     <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-pink-500 to-rose-500 flex items-center justify-center text-white shadow-lg shadow-pink-500/30 shrink-0 group-hover:scale-110 transition-transform duration-300">
